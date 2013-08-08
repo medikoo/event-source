@@ -1,0 +1,16 @@
+@root
+
+module
+es5
+tabs
+
+indent 2
+
+ass
+evil
+nomen
+plusplus
+vars
+
+./index.js
+predef+ EventSource

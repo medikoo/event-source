@@ -2,7 +2,7 @@
 
 "use strict";
 
-var global = require('es5-ext/lib/global');
+var global = require('es5-ext/global');
 
 function Map() {
 	this.data = {};

@@ -2,8 +2,7 @@
   "name": "event-source",
   "version": "0.1.0",
   "description": "EventSource polyfill",
-  "main": "index.js",
-  "dependencies": {
+  "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
   "dependencies": {
     "es5-ext": "git://github.com/medikoo/es5-ext.git"
   },
@@ -27,7 +26,6 @@
     "socket.io",
     "websocket"
   ],
-  "author": "Mariusz Nowak <medikoo+mutable@medikoo.com> (http://www.medikoo.com/)",
   "license": "MIT",
   "bugs": {
     "url": "git://github.com/medikoo/event-source/issues"

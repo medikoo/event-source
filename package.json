@@ -3,6 +3,19 @@
   "version": "0.1.0",
   "description": "EventSource polyfill",
   "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+  "keywords": [
+    "eventsource",
+    "serversentevents",
+    "sse",
+    "xhr",
+    "ajax",
+    "socket.io",
+    "websocket"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/event-source.git"
+  },
   "dependencies": {
     "es5-ext": "git://github.com/medikoo/es5-ext.git"
   },
@@ -13,21 +26,5 @@
   "scripts": {
     "test": "node node_modules/tad/bin/tad"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/medikoo/event-source.git"
-  },
-  "keywords": [
-    "eventsource",
-    "serversentevents",
-    "sse",
-    "xhr",
-    "ajax",
-    "socket.io",
-    "websocket"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "git://github.com/medikoo/event-source/issues"
-  }
+  "license": "MIT"
 }

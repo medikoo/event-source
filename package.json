@@ -17,11 +17,11 @@
     "url": "git://github.com/medikoo/event-source.git"
   },
   "dependencies": {
-    "es5-ext": "git://github.com/medikoo/es5-ext.git"
+    "es5-ext": "~0.10.2"
   },
   "devDependencies": {
-    "jsdom": "~0.8.3",
-    "tad": "~0.1.16"
+    "jsdom": "~0.10.5",
+    "tad": "0.2.x"
   },
   "scripts": {
     "test": "node node_modules/tad/bin/tad"

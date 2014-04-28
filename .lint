@@ -1,10 +1,10 @@
 @root
 
 module
-es5
-tabs
 
+tabs
 indent 2
+maxlen 100
 
 ass
 evil

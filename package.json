@@ -1,6 +1,6 @@
 {
   "name": "event-source",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "EventSource polyfill",
   "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
   "keywords": [

@@ -1,2 +1,6 @@
+v0.1.1  --  2014.04.28
+* Update polyfill up to latest changes
+* Update to use latest versions of dependencies
+
 v0.1.0  --  2013.08.08
 Initial

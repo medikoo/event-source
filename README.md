@@ -11,9 +11,7 @@ In your project path:
 
 	$ npm install event-source
 
-#### Browser
-
-You can easily bundle _EventSource_ for browser with [modules-webmake](https://github.com/medikoo/modules-webmake)
+To port it to Browser or any other (non CJS) environment, use your favorite CJS bundler. No favorite yet? Try: [Browserify](http://browserify.org/), [Webmake](https://github.com/medikoo/modules-webmake) or [Webpack](http://webpack.github.io/)
 
 ## Usage
 

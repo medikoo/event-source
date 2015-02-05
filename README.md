@@ -13,7 +13,7 @@ In your project path:
 
 #### Browser
 
-You can easily bundle _EventSource_ for browser with [modules-webmake](https://github.com/medikoo/modules-webmake)
+You can easily bundle _EventSource_ for browser with [Browserify](http://browserify.org/) or [modules-webmake](https://github.com/medikoo/modules-webmake).
 
 ## Usage
 
